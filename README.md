@@ -1,4 +1,4 @@
-mCloud-SCOS
+INSTANT
 ===========
 
-mCloud OS
+Instant
